@@ -125,6 +125,9 @@ span:hover{
    }
   section{
     margin-left: 600px;
+    margin-left: 600px;
+    position: relative;
+    left: 600px;
   }
 
   
